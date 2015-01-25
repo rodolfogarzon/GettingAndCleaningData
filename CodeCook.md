@@ -1,6 +1,8 @@
+# Code Book
 
+## file : aggregate_dity.txt
 
-Codebook for aggregate_dity.txt
+## feature Variables
 
 subject: int
 subject ID code
